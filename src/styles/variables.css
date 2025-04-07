@@ -1,0 +1,33 @@
+:root {
+    /* Primary Colors */
+    --primary: #1E88E5;
+    --primary-light: #64B5F6;
+    --primary-dark: #1565C0;
+    
+    /* Secondary Colors */
+    --secondary: #FF8F00;
+    --secondary-light: #FFC046;
+    --secondary-dark: #C56000;
+    
+    /* Text Colors */
+    --text-primary: #333333;
+    --text-secondary: #666666;
+    --text-heading: #212121;
+    --text-light: #777777;
+    
+    /* Background Colors */
+    --bg-primary: #FFFFFF;
+    --bg-secondary: #F5F7FA;
+    --bg-tertiary: #EEEEEE;
+    
+    /* Accent Colors */
+    --success: #4CAF50;
+    --warning: #FFC107;
+    --error: #F44336;
+    --info: #2196F3;
+    
+    /* Other Variables */
+    --border-radius: 8px;
+    --box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    --transition: all 0.3s ease;
+}
